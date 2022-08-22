@@ -1,0 +1,20 @@
+	Vou Criar um Site para colocar em Pratica o que aprendi em Dois modulos do HTML5 e CSS na ALURA!
+
+-Nome do Sistema: Bolos no Pote 
+
+-Descrição: Localizada em Sud Mennucci a Confeiteria Bolos no pote traz para a cidade o Melhor para seu Paladar. Fundada em 2021 depois que o Ju foi Preso injustament.
+ Nosso Objetivo é Trazer o Melhor do melhor para seu Paladar e conseguir dinheiro para pagar o advogado do Ju (que foi preso injustamente).
+ Oferecemos os melhores Bolos e entregas a domicilio, o melhor bolo e atendimento está aqui! (Ajude a Tirar o Ju da Cadeia)!
+
+-Beneficios: Os melhores Bolos do Estado!
+	     Delivery até as 20h ou bater o carro!
+	     Localização de Facil acesso!
+	     Atendimento Espetacular
+	     Você estara ajudando um Injustiçado!
+
+-Produtos: Bolo no Pote Sabor Morango! (Posso Colocar o Tamanho do Bolo depois)
+			      chocolate
+			      Baunilha
+			      Creme 
+			      Encomenda (Escolha o Recheio)!
+
