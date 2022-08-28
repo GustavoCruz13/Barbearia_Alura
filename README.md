@@ -23,8 +23,8 @@ Here are the technologies used in this project.
 ### 1 - When you access, you will see the Home page 
 
 ![Homepage image](https://github.com/GustavoCruz13/Barbearia_Alura/blob/main/readme/home.png)
-![] (https://github.com/GustavoCruz13/Barbearia_Alura/blob/main/readme/home_1.png)
-![] (https://github.com/GustavoCruz13/Barbearia_Alura/blob/main/readme/contacts_2.png)
+![](https://github.com/GustavoCruz13/Barbearia_Alura/blob/main/readme/home_1.png)
+![](https://github.com/GustavoCruz13/Barbearia_Alura/blob/main/readme/contacts_2.png)
 
 
 ### 2 -  When you access Products, you will see
